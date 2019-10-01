@@ -1,0 +1,32 @@
+h1{
+    position: absolute;
+    left: 700px;
+    font-size:70px;
+    top:-20px;
+}
+table{
+    position: absolute;
+    top: 130px;
+    left: 850px;
+    font-size:20px;
+
+}
+th{
+    border:black solid 2px;
+}
+
+
+.boutton4{
+    position: absolute;
+    font-size:20px;
+    color:black;
+    border-radius: 10px;
+    border: black solid 2px;   
+    bottom:20px;
+    left: 25px;
+}
+body html{
+    width:100%;
+    margin:0;
+    paddin:0;
+}

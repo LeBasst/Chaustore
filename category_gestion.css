@@ -1,0 +1,49 @@
+h1{
+    position: absolute;
+    left: 330px;
+     font-size: 70px;
+     top: 20px;
+     color:white;
+ }
+ .boutton1{
+     position: absolute;
+     left: 840px;
+     font-size:40px;
+     color:white;
+     border-radius: 10px;
+     border: white solid 2px;   
+     top: 300px;
+ }
+ .boutton2{
+     position: absolute;
+     left: 340px;
+     font-size:40px;
+     color:white;
+     border-radius: 10px;
+     border: white solid 2px;   
+     top:300px;
+ }
+ .boutton3{
+     position: absolute;
+     left: 600px;
+     font-size:40px;
+     color:white;
+     border-radius: 10px;
+     border: white solid 2px;  
+     top:300px;
+ }
+ .boutton4{
+     position: absolute;
+     left:600px;
+     font-size:40px;
+     color:white;
+     border-radius: 10px;
+     border: white solid 2px;  
+     top: 600px;
+ }
+ body img{
+     width:100%;
+     margin:0;
+     paddin:0;
+ }
+ 

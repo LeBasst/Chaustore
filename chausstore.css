@@ -1,0 +1,85 @@
+.boutton1{
+ position: absolute;
+ left: 1140px;
+ border: white solid 2px;
+ font-size:40px;
+ border-radius: 10px;
+ top: 380px;
+ color:white;
+}
+h1{
+    position: absolute;
+    top: 20px;
+    margin-left: 280px;
+    font-size: 60px;
+    color:white;
+ 
+
+    
+}
+h2{
+    position: absolute;
+    margin-left: 450px;
+    top:250px;
+    font-size:40px;
+    color:white;
+
+}
+
+.boutton2{
+    position: absolute;
+    left: 970px;
+    border:white solid 2px;
+    font-size:40px;
+    border-radius: 10px;
+    top: 380px;
+    color:white;
+}
+
+.boutton3{
+    position: absolute;
+    left:745px;
+    border: white solid 2px;    
+    font-size:40px;
+    border-radius: 10px;
+    top: 380px;
+    color:white;
+}
+
+.boutton4{
+    position: absolute;
+    left:540px;
+    border: white solid 2px;
+    font-size:40px;
+    border-radius: 10px;
+    top: 380px;
+    color:white;
+
+}
+
+.boutton5{
+    position: absolute;
+    left: 300px;
+    border:white solid 2px;
+    font-size:40px;
+    border-radius: 10px;
+    top: 380px;
+    color:white;
+
+}
+
+.boutton6{
+    position: absolute;
+    left: 100px;
+    border:white solid 2px;
+    font-size:40px;
+    border-radius: 10px;
+    top: 380px;
+    color:white;
+}
+body img{
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
